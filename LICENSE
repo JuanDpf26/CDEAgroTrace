@@ -1,0 +1,31 @@
+AgroTrace App – AgroCore Component
+Copyright (c) 2025, StartUp UMB (AgroTrace Team)
+
+Todos los derechos reservados.
+
+El núcleo AgroCore y los módulos desarrollados por StartUp UMB son propietarios.
+El código fuente, salvo las dependencias de terceros descritas en TERCEROS.txt,
+no puede ser copiado, modificado ni redistribuido sin autorización expresa.
+
+Este software se distribuye bajo un modelo dual:
+- SaaS (Software como Servicio) ofrecido por StartUp UMB.
+- Licencia on-premise propietaria para clientes empresariales.
+
+-----------------------
+INCLUSIÓN DE LICENCIAS DE TERCEROS
+-----------------------
+
+Este producto incluye componentes de terceros bajo las siguientes licencias:
+
+- ReactUI (MIT License)
+- DataClean (MIT License, modificado por AgroTrace)
+- GraphX Charts (GPL v3.0)
+- SecureAuth-Server (AGPL v3.0)
+- Dependencias transitivas (Apache License 2.0)
+- RapidMaps SDK (EULA Propietaria)
+- PushCloud SDK (EULA Propietaria)
+- Imágenes AgroFotoBlog (CC BY-NC-SA 4.0 – solo uso no comercial)
+- Datos de AgroMarket.com (condicionados a Términos de Servicio)
+
+Las licencias completas de cada uno se encuentran en sus respectivos sitios web.
+Extractos relevantes y atribuciones se incluyen en el archivo NOTICE.

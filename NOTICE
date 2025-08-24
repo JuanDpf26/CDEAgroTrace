@@ -1,0 +1,48 @@
+NOTICE
+======
+
+Este producto incluye software desarrollado por terceros:
+
+- ReactUI  
+  Copyright (c) React Contributors  
+  Licencia MIT: https://opensource.org/licenses/MIT
+
+- DataClean  
+  Copyright (c) DataClean Contributors  
+  Licencia MIT: https://opensource.org/licenses/MIT  
+  *Modificado en 2025 por AgroTrace Team para integrarse con AgroCore.*
+
+- Dependencias transitivas bajo Apache License 2.0  
+  Copyright (c) Apache Software Foundation  
+  Licencia: http://www.apache.org/licenses/LICENSE-2.0  
+
+  Este producto incluye software desarrollado en el marco del proyecto Apache.
+  Puedes obtener una copia de la licencia en la URL anterior.
+
+- GraphX Charts  
+  Copyright (c) GraphX Contributors  
+  Licencia GPL v3.0: https://www.gnu.org/licenses/gpl-3.0.html
+
+- SecureAuth-Server  
+  Copyright (c) SecureAuth Contributors  
+  Licencia AGPL v3.0: https://www.gnu.org/licenses/agpl-3.0.html
+
+- RapidMaps SDK  
+  Derechos reservados por RapidMaps.  
+  Uso bajo EULA propietaria. Requiere:
+    * Atribución visible en la interfaz.
+    * Enlace a RapidMaps en documentación/pie de página.
+    * Prohibido caching de mapas por más de 30 días en plan básico.  
+
+- PushCloud SDK  
+  Derechos reservados por PushCloud.  
+  Uso bajo EULA propietaria. Restricción: no almacenar tokens fuera del servicio.
+
+- Imágenes AgroFotoBlog  
+  Licencia CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/  
+  Uso limitado a entornos no comerciales.  
+  **Atención:** no pueden emplearse en material de marketing comercial.
+
+- Datos AgroMarket.com  
+  Sujetos a los Términos de Servicio de AgroMarket.  
+  Recolección y redistribución sin permiso expreso está prohibida.
