@@ -1,0 +1,14 @@
+============================================================================================================================================
+COMPONENTE             | VERSIÓN    | LICENCIA               | CLASIFICACIÓN                 | MOD/USO     | URL
+============================================================================================================================================
+ReactUI (Frontend)     | 18.2.0    | MIT                    | Permisiva                     | Solo uso    | https://es.legacy.reactjs.org/versions/
+GraphX Charts          | 3.5.6      | GPL-3.0                | Copyleft fuerte               | Solo uso    | https://spark.apache.org/graphx/
+DataClean              | ---------    | MIT (con cambios)      | Permisiva                     | Modificado  | --------------------------
+SecureAuthServer       | 4.7.2      | AGPL-3.0               | Copyleft fuerte               | Solo uso    | https://docs.secureauth.com/2104/en/secureauth-compatibility-guide.html
+RapidMaps SDK          | 3.5.6       | EULA Propietaria       | Propietaria/EULA              | Solo uso    | https://rapidmaps.macupdate.com/
+PushCloud SDK          | N/A     | EULA Propietaria       | Propietaria/EULA              | Solo uso    | --------------------------
+AgroFotoBlog Imágenes  | N/A        | CC BY-NC-SA 4.0        | Creative Commons (NoCom/SA)   | Solo uso    | ------------------------
+AgroMarket.com Datos   | N/A        | Términos restrictivos  | Contrato/ToS                  | Solo uso    |-------------------------
+AgroCore (propio)      | 1.0.0      | Propietario interno    | Propietaria                   | Modificado  | Privado
+Dependencias trans.    | varias     | Apache-2.0             | Permisiva                     | Solo uso    | http://www.apache.org/licenses/
+=============================================================================================================================================
